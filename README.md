@@ -1,10 +1,16 @@
-# About Me
+# Welcome to My GitHub!  
 
-Thank you for stopping in and having a look at my GitHub! This repository serves as the starting point for looking through my profile as well as acting as a brief introduction to me and my experiences. The projects that are posted here are either my own original work in it's entirety or modifications of existing work with proper credit given to the appropriate sources. So, some are personal ideas and projects while others come from other sources, such as completed university projects. 
+Thanks for stopping by and exploring my profile! This repository serves as both an introduction to my work and a starting point for navigating my projects. The code and content you'll find here are either my own original work or modifications of existing projects, with proper credit given where due. Some projects stem from personal ideas and experiments, while others originate from my academic and professional experiences.  
 
-**Please note that some of my experience is in the defense sector where projects are strictly controlled to prevent incidental leaks of confidential/technical data. I will not post any project files for projects that are covered by an active NDA or contain export regulated technical data in accordance with ITAR export regulations.**
+## A Note on My Work in the Defense Sector  
+Due to my experience in the defense industry, certain projects are subject to strict confidentiality regulations. Any work covered by an active NDA or containing export-controlled technical data (in compliance with ITAR regulations) will not be shared here.  
 
-However, if I feel a project is interesting enough to warrant a write-up, I will create a mock-up that provides a general idea of what the project entails and how it was accomplished, but with false and incomplete information. With that said, though, you may notice that, at the moment, the repositories are barren and barebones. I will be actively working to remedy that by uploading projects as quickly as I'm able, and in the meantime, you may look over a brief summary of my experience below or find me on LinkedIn.
+However, if a project is particularly interesting, I may create a mock-up or write-up that provides a general overview of the concept and methodology—ensuring that all sensitive details remain protected.  
+
+## What to Expect  
+At the moment, my repositories may seem sparse, but I am actively working to upload and document more projects. In the meantime, feel free to check out a summary of my experience below or connect with me on [LinkedIn](https://www.linkedin.com/in/chrisalmoore).
+
+Stay tuned for updates!
 
 ## Education
 
