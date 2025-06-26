@@ -1,6 +1,6 @@
 # Welcome to My GitHub!  
 
-Thanks for stopping by and exploring my profile! This repository serves as both an introduction to my work and a starting point for navigating my projects. The code and content you'll find here are either my own original work or modifications of existing projects, with proper credit given where due. Some projects stem from personal ideas and experiments, while others originate from my academic and professional experiences.  
+Thanks for stopping by and exploring my profile! This repository serves as both an introduction to my work and a starting point for navigating my projects. The code and content you'll find here are either my own original work or modifications of existing projects, with proper credit given where due. Some projects stem from personal ideas and experiments, while others originate from my academic and professional experiences.
 
 ## A Note on My Work in the Defense Sector  
 Due to my experience in the defense industry, certain projects are subject to strict confidentiality regulations. Any work covered by an active NDA or containing export-controlled technical data (in compliance with ITAR regulations) will not be shared here.  
@@ -11,6 +11,9 @@ However, if a project is particularly interesting, I may create a mock-up or wri
 At the moment, my repositories may seem sparse, but I am actively working to upload and document more projects. In the meantime, feel free to check out a summary of my experience below or connect with me on [LinkedIn](https://www.linkedin.com/in/chrisalmoore).
 
 Stay tuned for updates!
+
+## Quick links to interesting projects
+[Predicting Aircraft Performance Indicators Using Artificial Neural Networks research paper](https://github.com/chris15252/Predicting-Aircraft-Performance-Indicators-Using-Artificial-Neural-Networks)
 
 ## Education
 
